@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ohmyzsh/ohmyzsh",
+    "stargazers_count": 149559,
+    "open_issues_count": 699,
+    "forks_count": 24448
+  },
+  {
     "full_name": "lammy-prime/circle-234-phonie",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,37 +13,37 @@
   },
   {
     "full_name": "nayafia/contributing-template",
-    "stargazers_count": 640,
+    "stargazers_count": 641,
     "open_issues_count": 2,
-    "forks_count": 266
+    "forks_count": 267
   },
   {
     "full_name": "nayafia/lemonade-stand",
-    "stargazers_count": 6792,
+    "stargazers_count": 6864,
     "open_issues_count": 15,
-    "forks_count": 335
+    "forks_count": 336
   },
   {
     "full_name": "Cloudlordd/Cloudlord-and-pals",
     "stargazers_count": 9,
-    "open_issues_count": 11,
+    "open_issues_count": 4,
     "forks_count": 105
   },
   {
     "full_name": "HospitalRun/hospitalrun",
-    "stargazers_count": 783,
+    "stargazers_count": 784,
     "open_issues_count": 31,
     "forks_count": 250
   },
   {
     "full_name": "BolajiAyodeji/altschool-profile-template",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
-    "forks_count": 290
+    "forks_count": 295
   },
   {
     "full_name": "DoableDanny/Realtime-chat-app-with-rooms",
-    "stargazers_count": 18,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -45,18 +51,18 @@
     "full_name": "Oluwasetemi/altschool-opensource-names",
     "stargazers_count": 50,
     "open_issues_count": 22,
-    "forks_count": 585
+    "forks_count": 593
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 135930,
-    "open_issues_count": 7559,
-    "forks_count": 23251
+    "stargazers_count": 136053,
+    "open_issues_count": 7555,
+    "forks_count": 23281
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 208684,
-    "open_issues_count": 105,
-    "forks_count": 29704
+    "stargazers_count": 209119,
+    "open_issues_count": 108,
+    "forks_count": 29767
   }
 ]
