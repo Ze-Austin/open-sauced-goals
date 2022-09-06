@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "rupa/z",
+    "stargazers_count": 14582,
+    "open_issues_count": 99,
+    "forks_count": 1138
+  },
+  {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 149559,
-    "open_issues_count": 699,
-    "forks_count": 24448
+    "stargazers_count": 149704,
+    "open_issues_count": 703,
+    "forks_count": 24453
   },
   {
     "full_name": "lammy-prime/circle-234-phonie",
@@ -19,50 +25,50 @@
   },
   {
     "full_name": "nayafia/lemonade-stand",
-    "stargazers_count": 6864,
+    "stargazers_count": 6880,
     "open_issues_count": 15,
-    "forks_count": 336
+    "forks_count": 337
   },
   {
     "full_name": "Cloudlordd/Cloudlord-and-pals",
     "stargazers_count": 9,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 105
   },
   {
     "full_name": "HospitalRun/hospitalrun",
-    "stargazers_count": 784,
+    "stargazers_count": 788,
     "open_issues_count": 31,
-    "forks_count": 250
+    "forks_count": 251
   },
   {
     "full_name": "BolajiAyodeji/altschool-profile-template",
     "stargazers_count": 26,
     "open_issues_count": 0,
-    "forks_count": 295
+    "forks_count": 302
   },
   {
     "full_name": "DoableDanny/Realtime-chat-app-with-rooms",
-    "stargazers_count": 20,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "Oluwasetemi/altschool-opensource-names",
     "stargazers_count": 50,
-    "open_issues_count": 22,
-    "forks_count": 593
+    "open_issues_count": 20,
+    "forks_count": 598
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 136053,
-    "open_issues_count": 7555,
-    "forks_count": 23281
+    "stargazers_count": 136213,
+    "open_issues_count": 7614,
+    "forks_count": 23302
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 209119,
-    "open_issues_count": 108,
-    "forks_count": 29767
+    "stargazers_count": 209867,
+    "open_issues_count": 118,
+    "forks_count": 29890
   }
 ]
