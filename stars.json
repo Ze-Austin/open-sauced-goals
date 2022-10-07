@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "Semantic-Org/Semantic-UI",
+    "stargazers_count": 50189,
+    "open_issues_count": 1061,
+    "forks_count": 5113
+  },
+  {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2514,
+    "stargazers_count": 2518,
     "open_issues_count": 4,
     "forks_count": 418
   },
@@ -13,57 +19,57 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 127639,
-    "open_issues_count": 147,
-    "forks_count": 24335
+    "stargazers_count": 127709,
+    "open_issues_count": 148,
+    "forks_count": 24340
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 27866,
-    "open_issues_count": 169,
-    "forks_count": 50708
+    "stargazers_count": 28350,
+    "open_issues_count": 119,
+    "forks_count": 51505
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
-    "stargazers_count": 990,
-    "open_issues_count": 139,
-    "forks_count": 1250
+    "stargazers_count": 993,
+    "open_issues_count": 140,
+    "forks_count": 1258
   },
   {
     "full_name": "olawanlejoel/Awesome-Javascript-resources",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 8475,
-    "open_issues_count": 44,
-    "forks_count": 3623
+    "stargazers_count": 8496,
+    "open_issues_count": 43,
+    "forks_count": 3633
   },
   {
     "full_name": "devicons/devicon",
-    "stargazers_count": 6196,
+    "stargazers_count": 6216,
     "open_issues_count": 300,
-    "forks_count": 1608
+    "forks_count": 1604
   },
   {
     "full_name": "Evavic44/portfolio-ideas",
-    "stargazers_count": 1200,
-    "open_issues_count": 2,
-    "forks_count": 236
+    "stargazers_count": 1216,
+    "open_issues_count": 1,
+    "forks_count": 239
   },
   {
     "full_name": "rupa/z",
-    "stargazers_count": 14664,
+    "stargazers_count": 14675,
     "open_issues_count": 99,
-    "forks_count": 1136
+    "forks_count": 1137
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 150719,
-    "open_issues_count": 717,
-    "forks_count": 24553
+    "stargazers_count": 150821,
+    "open_issues_count": 725,
+    "forks_count": 24572
   },
   {
     "full_name": "lammy-prime/circle-234-phonie",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "nayafia/contributing-template",
-    "stargazers_count": 647,
+    "stargazers_count": 648,
     "open_issues_count": 2,
-    "forks_count": 270
+    "forks_count": 271
   },
   {
     "full_name": "nayafia/lemonade-stand",
@@ -93,13 +99,13 @@
     "full_name": "HospitalRun/hospitalrun",
     "stargazers_count": 800,
     "open_issues_count": 33,
-    "forks_count": 256
+    "forks_count": 257
   },
   {
     "full_name": "BolajiAyodeji/altschool-profile-template",
     "stargazers_count": 28,
     "open_issues_count": 0,
-    "forks_count": 317
+    "forks_count": 318
   },
   {
     "full_name": "DoableDanny/Realtime-chat-app-with-rooms",
@@ -110,19 +116,19 @@
   {
     "full_name": "Oluwasetemi/altschool-opensource-names",
     "stargazers_count": 51,
-    "open_issues_count": 17,
-    "forks_count": 617
+    "open_issues_count": 18,
+    "forks_count": 618
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 137247,
-    "open_issues_count": 7802,
-    "forks_count": 23520
+    "stargazers_count": 137343,
+    "open_issues_count": 7769,
+    "forks_count": 23563
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 213631,
-    "open_issues_count": 243,
-    "forks_count": 30623
+    "stargazers_count": 213982,
+    "open_issues_count": 189,
+    "forks_count": 30700
   }
 ]
