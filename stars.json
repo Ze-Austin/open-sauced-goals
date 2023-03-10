@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "CalebEmelike/flask-pizza-api",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "wadelu23/basic-RESTful-flask-e-store",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "realpython/materials",
-    "stargazers_count": 4157,
-    "open_issues_count": 42,
-    "forks_count": 5175
+    "stargazers_count": 4163,
+    "open_issues_count": 41,
+    "forks_count": 5174
   },
   {
     "full_name": "microsoft/AcademicContent",
     "stargazers_count": 2525,
-    "open_issues_count": 1,
-    "forks_count": 975
+    "open_issues_count": 2,
+    "forks_count": 974
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
-    "stargazers_count": 5028,
+    "stargazers_count": 5038,
     "open_issues_count": 48,
     "forks_count": 2025
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 362547,
+    "stargazers_count": 362743,
     "open_issues_count": 211,
-    "forks_count": 31266
+    "forks_count": 31304
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 69776,
+    "stargazers_count": 69857,
     "open_issues_count": 42,
-    "forks_count": 6665
+    "forks_count": 6674
   },
   {
     "full_name": "africommerce/africommerce-saas",
@@ -43,15 +55,15 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 9600,
+    "stargazers_count": 9637,
     "open_issues_count": 17,
-    "forks_count": 20436
+    "forks_count": 20487
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 99052,
-    "open_issues_count": 1948,
-    "forks_count": 26078
+    "stargazers_count": 99093,
+    "open_issues_count": 1953,
+    "forks_count": 26092
   },
   {
     "full_name": "UgoChiori/AltSchoolExam-Project",
@@ -61,21 +73,21 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 20506,
-    "open_issues_count": 339,
-    "forks_count": 2443
+    "stargazers_count": 20541,
+    "open_issues_count": 342,
+    "forks_count": 2457
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 7090,
+    "stargazers_count": 7122,
     "open_issues_count": 64,
-    "forks_count": 1071
+    "forks_count": 1075
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20567,
+    "stargazers_count": 20598,
     "open_issues_count": 12,
-    "forks_count": 2464
+    "forks_count": 2465
   },
   {
     "full_name": "ismaelsadeeq/Data-Structures-Algorithms-Problems",
@@ -85,27 +97,27 @@
   },
   {
     "full_name": "BolajiAyodeji/technical-writing-template",
-    "stargazers_count": 411,
+    "stargazers_count": 412,
     "open_issues_count": 0,
     "forks_count": 100
   },
   {
     "full_name": "BolajiAyodeji/awesome-technical-writing",
-    "stargazers_count": 1327,
+    "stargazers_count": 1328,
     "open_issues_count": 0,
     "forks_count": 220
   },
   {
     "full_name": "Semantic-Org/Semantic-UI",
-    "stargazers_count": 50451,
+    "stargazers_count": 50457,
     "open_issues_count": 1067,
     "forks_count": 5104
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2958,
-    "open_issues_count": 3,
-    "forks_count": 505
+    "stargazers_count": 2979,
+    "open_issues_count": 4,
+    "forks_count": 513
   },
   {
     "full_name": "teamNewDev/newdev_api",
@@ -115,68 +127,56 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 132011,
-    "open_issues_count": 158,
-    "forks_count": 25032
+    "stargazers_count": 132095,
+    "open_issues_count": 157,
+    "forks_count": 25055
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 32083,
-    "open_issues_count": 237,
-    "forks_count": 57248
+    "stargazers_count": 32137,
+    "open_issues_count": 255,
+    "forks_count": 57370
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
-    "stargazers_count": 1069,
+    "stargazers_count": 1071,
     "open_issues_count": 150,
-    "forks_count": 1332
+    "forks_count": 1333
   },
   {
     "full_name": "olawanlejoel/Awesome-Javascript-resources",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 9677,
+    "stargazers_count": 9703,
     "open_issues_count": 47,
-    "forks_count": 4177
+    "forks_count": 4184
   },
   {
     "full_name": "devicons/devicon",
-    "stargazers_count": 7083,
-    "open_issues_count": 250,
-    "forks_count": 1967
+    "stargazers_count": 7119,
+    "open_issues_count": 254,
+    "forks_count": 1984
   },
   {
     "full_name": "Evavic44/portfolio-ideas",
-    "stargazers_count": 1957,
+    "stargazers_count": 1966,
     "open_issues_count": 1,
-    "forks_count": 348
+    "forks_count": 347
   },
   {
     "full_name": "rupa/z",
-    "stargazers_count": 15072,
+    "stargazers_count": 15085,
     "open_issues_count": 101,
-    "forks_count": 1153
+    "forks_count": 1155
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 156097,
+    "stargazers_count": 156229,
     "open_issues_count": 633,
-    "forks_count": 25024
-  },
-  {
-    "full_name": "lammy-prime/circle-234-phonie",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "nayafia/contributing-template",
-    "stargazers_count": 666,
-    "open_issues_count": 2,
-    "forks_count": 283
+    "forks_count": 25045
   }
 ]
