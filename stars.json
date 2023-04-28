@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "bobby-didcoding/drf_course",
+    "stargazers_count": 123,
+    "open_issues_count": 7,
+    "forks_count": 96
+  },
+  {
     "full_name": "titiodus/Digital-AltSchool-IDCard",
     "stargazers_count": 44,
     "open_issues_count": 0,
@@ -7,15 +13,15 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 147197,
-    "open_issues_count": 404,
-    "forks_count": 83993
+    "stargazers_count": 147314,
+    "open_issues_count": 405,
+    "forks_count": 84066
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 10074,
-    "open_issues_count": 878,
-    "forks_count": 2315
+    "stargazers_count": 10086,
+    "open_issues_count": 877,
+    "forks_count": 2316
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 4232,
-    "open_issues_count": 41,
-    "forks_count": 5211
+    "stargazers_count": 4237,
+    "open_issues_count": 42,
+    "forks_count": 5215
   },
   {
     "full_name": "microsoft/AcademicContent",
@@ -55,21 +61,21 @@
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
-    "stargazers_count": 5088,
+    "stargazers_count": 5091,
     "open_issues_count": 53,
     "forks_count": 2040
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 364958,
-    "open_issues_count": 193,
-    "forks_count": 31753
+    "stargazers_count": 365090,
+    "open_issues_count": 179,
+    "forks_count": 31782
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 70392,
+    "stargazers_count": 70516,
     "open_issues_count": 45,
-    "forks_count": 6741
+    "forks_count": 6748
   },
   {
     "full_name": "africommerce/africommerce-saas",
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 10188,
+    "stargazers_count": 10216,
     "open_issues_count": 14,
-    "forks_count": 21293
+    "forks_count": 21352
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 99554,
-    "open_issues_count": 1987,
-    "forks_count": 26303
+    "stargazers_count": 99581,
+    "open_issues_count": 1992,
+    "forks_count": 26315
   },
   {
     "full_name": "UgoChiori/AltSchoolExam-Project",
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 21310,
-    "open_issues_count": 205,
-    "forks_count": 2632
+    "stargazers_count": 21356,
+    "open_issues_count": 213,
+    "forks_count": 2642
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 7596,
-    "open_issues_count": 72,
-    "forks_count": 1128
+    "stargazers_count": 7624,
+    "open_issues_count": 75,
+    "forks_count": 1138
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20758,
+    "stargazers_count": 20760,
     "open_issues_count": 12,
-    "forks_count": 2488
+    "forks_count": 2489
   },
   {
     "full_name": "ismaelsadeeq/Data-Structures-Algorithms-Problems",
@@ -127,27 +133,27 @@
   },
   {
     "full_name": "BolajiAyodeji/technical-writing-template",
-    "stargazers_count": 419,
+    "stargazers_count": 420,
     "open_issues_count": 0,
     "forks_count": 100
   },
   {
     "full_name": "BolajiAyodeji/awesome-technical-writing",
-    "stargazers_count": 1361,
+    "stargazers_count": 1363,
     "open_issues_count": 1,
-    "forks_count": 231
+    "forks_count": 233
   },
   {
     "full_name": "Semantic-Org/Semantic-UI",
-    "stargazers_count": 50533,
+    "stargazers_count": 50538,
     "open_issues_count": 1070,
-    "forks_count": 5106
+    "forks_count": 5105
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3121,
+    "stargazers_count": 3129,
     "open_issues_count": 9,
-    "forks_count": 543
+    "forks_count": 545
   },
   {
     "full_name": "teamNewDev/newdev_api",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 133363,
-    "open_issues_count": 161,
-    "forks_count": 25286
+    "stargazers_count": 133424,
+    "open_issues_count": 162,
+    "forks_count": 25300
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 33192,
-    "open_issues_count": 137,
-    "forks_count": 59161
+    "stargazers_count": 33252,
+    "open_issues_count": 163,
+    "forks_count": 59275
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
-    "stargazers_count": 1116,
-    "open_issues_count": 161,
-    "forks_count": 1357
-  },
-  {
-    "full_name": "olawanlejoel/Awesome-Javascript-resources",
-    "stargazers_count": 138,
-    "open_issues_count": 0,
-    "forks_count": 17
+    "stargazers_count": 1117,
+    "open_issues_count": 160,
+    "forks_count": 1358
   }
 ]
