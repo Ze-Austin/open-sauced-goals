@@ -1,9 +1,9 @@
 [
   {
     "full_name": "reactive-python/reactpy",
-    "stargazers_count": 3459,
-    "open_issues_count": 88,
-    "forks_count": 129
+    "stargazers_count": 5166,
+    "open_issues_count": 93,
+    "forks_count": 211
   },
   {
     "full_name": "Olatisunkanmi/nigeria-geo",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "googlemaps/google-maps-services-python",
-    "stargazers_count": 3969,
+    "stargazers_count": 3974,
     "open_issues_count": 28,
     "forks_count": 1264
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 7557,
-    "open_issues_count": 15,
-    "forks_count": 1427
+    "stargazers_count": 10674,
+    "open_issues_count": 34,
+    "forks_count": 1725
   },
   {
     "full_name": "olakayCoder1/Scissor",
@@ -33,7 +33,7 @@
     "full_name": "bobby-didcoding/drf_course",
     "stargazers_count": 144,
     "open_issues_count": 6,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "titiodus/Digital-AltSchool-IDCard",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 148714,
-    "open_issues_count": 415,
-    "forks_count": 84161
+    "stargazers_count": 148820,
+    "open_issues_count": 417,
+    "forks_count": 84155
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 10286,
-    "open_issues_count": 858,
-    "forks_count": 2350
+    "stargazers_count": 10299,
+    "open_issues_count": 857,
+    "forks_count": 2351
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 4316,
-    "open_issues_count": 40,
+    "stargazers_count": 4319,
+    "open_issues_count": 39,
     "forks_count": 5246
   },
   {
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
-    "stargazers_count": 5127,
-    "open_issues_count": 56,
-    "forks_count": 2056
+    "stargazers_count": 5133,
+    "open_issues_count": 57,
+    "forks_count": 2057
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 368405,
-    "open_issues_count": 200,
-    "forks_count": 32353
+    "stargazers_count": 368535,
+    "open_issues_count": 218,
+    "forks_count": 32385
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 71323,
+    "stargazers_count": 71540,
     "open_issues_count": 45,
-    "forks_count": 6812
+    "forks_count": 6827
   },
   {
     "full_name": "africommerce/africommerce-saas",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 10617,
-    "open_issues_count": 15,
-    "forks_count": 21464
+    "stargazers_count": 10653,
+    "open_issues_count": 14,
+    "forks_count": 21470
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 100032,
-    "open_issues_count": 2033,
-    "forks_count": 26399
+    "stargazers_count": 100061,
+    "open_issues_count": 2038,
+    "forks_count": 26410
   },
   {
     "full_name": "UgoChiori/AltSchoolExam-Project",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 21825,
-    "open_issues_count": 222,
-    "forks_count": 2801
+    "stargazers_count": 21865,
+    "open_issues_count": 224,
+    "forks_count": 2808
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 8125,
+    "stargazers_count": 8175,
     "open_issues_count": 87,
-    "forks_count": 1193
+    "forks_count": 1196
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20924,
+    "stargazers_count": 20935,
     "open_issues_count": 12,
-    "forks_count": 2500
+    "forks_count": 2499
   },
   {
     "full_name": "ismaelsadeeq/Data-Structures-Algorithms-Problems",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "BolajiAyodeji/technical-writing-template",
-    "stargazers_count": 431,
+    "stargazers_count": 433,
     "open_issues_count": 0,
     "forks_count": 102
   },
   {
     "full_name": "BolajiAyodeji/awesome-technical-writing",
-    "stargazers_count": 1390,
+    "stargazers_count": 1397,
     "open_issues_count": 1,
     "forks_count": 236
   },
@@ -177,6 +177,6 @@
     "full_name": "Semantic-Org/Semantic-UI",
     "stargazers_count": 50604,
     "open_issues_count": 1069,
-    "forks_count": 5099
+    "forks_count": 5100
   }
 ]
