@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "johnkomarnicki/vue-3-crash-course",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
     "full_name": "Oluwatemmy/Link-Ease",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "reactive-python/reactpy",
-    "stargazers_count": 6266,
-    "open_issues_count": 104,
-    "forks_count": 255
+    "stargazers_count": 6404,
+    "open_issues_count": 105,
+    "forks_count": 261
   },
   {
     "full_name": "Olatisunkanmi/nigeria-geo",
@@ -37,45 +43,45 @@
   },
   {
     "full_name": "googlemaps/google-maps-services-python",
-    "stargazers_count": 4003,
+    "stargazers_count": 4005,
     "open_issues_count": 31,
-    "forks_count": 1267
+    "forks_count": 1269
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 15269,
-    "open_issues_count": 22,
-    "forks_count": 2500
+    "stargazers_count": 15650,
+    "open_issues_count": 24,
+    "forks_count": 2569
   },
   {
     "full_name": "olakayCoder1/Scissor",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "bobby-didcoding/drf_course",
     "stargazers_count": 157,
     "open_issues_count": 6,
-    "forks_count": 129
+    "forks_count": 132
   },
   {
     "full_name": "titiodus/Digital-AltSchool-IDCard",
     "stargazers_count": 44,
-    "open_issues_count": 0,
-    "forks_count": 8
+    "open_issues_count": 3,
+    "forks_count": 10
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 149478,
-    "open_issues_count": 425,
-    "forks_count": 84177
+    "stargazers_count": 149581,
+    "open_issues_count": 426,
+    "forks_count": 84179
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 10383,
-    "open_issues_count": 827,
-    "forks_count": 2367
+    "stargazers_count": 10392,
+    "open_issues_count": 822,
+    "forks_count": 2371
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 4341,
+    "stargazers_count": 4345,
     "open_issues_count": 45,
-    "forks_count": 5261
+    "forks_count": 5259
   },
   {
     "full_name": "microsoft/AcademicContent",
@@ -115,25 +121,25 @@
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
-    "stargazers_count": 5170,
+    "stargazers_count": 5172,
     "open_issues_count": 58,
-    "forks_count": 2068
+    "forks_count": 2070
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 369570,
-    "open_issues_count": 225,
-    "forks_count": 32813
+    "stargazers_count": 369716,
+    "open_issues_count": 223,
+    "forks_count": 32854
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 71891,
+    "stargazers_count": 71934,
     "open_issues_count": 45,
-    "forks_count": 6864
+    "forks_count": 6870
   },
   {
     "full_name": "africommerce/africommerce-saas",
-    "stargazers_count": 13,
+    "stargazers_count": 12,
     "open_issues_count": 10,
     "forks_count": 22
   },
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 10812,
+    "stargazers_count": 10853,
     "open_issues_count": 14,
-    "forks_count": 21465
+    "forks_count": 21466
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 100240,
-    "open_issues_count": 2054,
-    "forks_count": 26476
+    "stargazers_count": 100268,
+    "open_issues_count": 2059,
+    "forks_count": 26494
   },
   {
     "full_name": "UgoChiori/AltSchoolExam-Project",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 22152,
-    "open_issues_count": 247,
-    "forks_count": 2890
+    "stargazers_count": 22342,
+    "open_issues_count": 241,
+    "forks_count": 2902
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 8452,
+    "stargazers_count": 8490,
     "open_issues_count": 95,
-    "forks_count": 1231
-  },
-  {
-    "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 21028,
-    "open_issues_count": 12,
-    "forks_count": 2510
+    "forks_count": 1233
   }
 ]
