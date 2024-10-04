@@ -8,12 +8,12 @@
   {
     "full_name": "KillerCodeMonkey/ngx-quill",
     "stargazers_count": 1773,
-    "open_issues_count": 1,
-    "forks_count": 258
+    "open_issues_count": 2,
+    "forks_count": 259
   },
   {
     "full_name": "withfig/fig",
-    "stargazers_count": 2054,
+    "stargazers_count": 2053,
     "open_issues_count": 744,
     "forks_count": 63
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "googlemaps/google-maps-services-python",
-    "stargazers_count": 4497,
+    "stargazers_count": 4498,
     "open_issues_count": 61,
     "forks_count": 1304
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 34270,
-    "open_issues_count": 55,
-    "forks_count": 5710
+    "stargazers_count": 34303,
+    "open_issues_count": 57,
+    "forks_count": 5722
   },
   {
     "full_name": "olakayCoder1/Scissor",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "bobby-didcoding/drf_course",
-    "stargazers_count": 261,
+    "stargazers_count": 263,
     "open_issues_count": 9,
-    "forks_count": 238
+    "forks_count": 239
   },
   {
     "full_name": "titiodus/dizzy-eggz",
@@ -91,14 +91,14 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 161463,
-    "open_issues_count": 476,
-    "forks_count": 83125
+    "stargazers_count": 161515,
+    "open_issues_count": 477,
+    "forks_count": 83132
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 11927,
-    "open_issues_count": 881,
+    "stargazers_count": 11943,
+    "open_issues_count": 879,
     "forks_count": 2654
   },
   {
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 4778,
+    "stargazers_count": 4782,
     "open_issues_count": 57,
-    "forks_count": 5300
+    "forks_count": 5305
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2685,
+    "stargazers_count": 2687,
     "open_issues_count": 2,
     "forks_count": 961
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
-    "stargazers_count": 5630,
-    "open_issues_count": 89,
-    "forks_count": 2151
+    "stargazers_count": 5635,
+    "open_issues_count": 90,
+    "forks_count": 2155
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 402823,
-    "open_issues_count": 313,
-    "forks_count": 37389
+    "stargazers_count": 403341,
+    "open_issues_count": 334,
+    "forks_count": 37533
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 82823,
+    "stargazers_count": 82896,
     "open_issues_count": 54,
-    "forks_count": 7733
+    "forks_count": 7740
   },
   {
     "full_name": "africommerce/africommerce-saas",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 14027,
+    "stargazers_count": 14042,
     "open_issues_count": 10,
-    "forks_count": 22848
+    "forks_count": 22862
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 102590,
-    "open_issues_count": 2245,
-    "forks_count": 26794
+    "stargazers_count": 102609,
+    "open_issues_count": 2247,
+    "forks_count": 26790
   }
 ]
