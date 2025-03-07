@@ -1,9 +1,9 @@
 [
   {
     "full_name": "khaymanii/AlienUI",
-    "stargazers_count": 127,
+    "stargazers_count": 137,
     "open_issues_count": 8,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "Python-Nigeria/pynigeria-backend",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 83270,
+    "stargazers_count": 83447,
     "open_issues_count": 50,
-    "forks_count": 11668
+    "forks_count": 11722
   },
   {
     "full_name": "realworld-angular/realworld-angular",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "KillerCodeMonkey/ngx-quill",
-    "stargazers_count": 1804,
+    "stargazers_count": 1806,
     "open_issues_count": 2,
     "forks_count": 266
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "reactive-python/reactpy",
-    "stargazers_count": 7960,
+    "stargazers_count": 7959,
     "open_issues_count": 63,
     "forks_count": 325
   },
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "googlemaps/google-maps-services-python",
-    "stargazers_count": 4669,
+    "stargazers_count": 4679,
     "open_issues_count": 66,
-    "forks_count": 1311
+    "forks_count": 1312
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 36272,
-    "open_issues_count": 38,
-    "forks_count": 6479
+    "stargazers_count": 36339,
+    "open_issues_count": 39,
+    "forks_count": 6502
   },
   {
     "full_name": "olakayCoder1/Scissor",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 164790,
-    "open_issues_count": 500,
-    "forks_count": 83109
+    "stargazers_count": 164856,
+    "open_issues_count": 503,
+    "forks_count": 83102
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 12470,
-    "open_issues_count": 905,
-    "forks_count": 2754
+    "stargazers_count": 12490,
+    "open_issues_count": 906,
+    "forks_count": 2756
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -152,31 +152,31 @@
   {
     "full_name": "realpython/materials",
     "stargazers_count": 4856,
-    "open_issues_count": 65,
-    "forks_count": 5315
+    "open_issues_count": 66,
+    "forks_count": 5314
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2717,
+    "stargazers_count": 2718,
     "open_issues_count": 2,
     "forks_count": 959
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
-    "stargazers_count": 5764,
+    "stargazers_count": 5763,
     "open_issues_count": 98,
     "forks_count": 2192
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 410692,
-    "open_issues_count": 274,
-    "forks_count": 39079
+    "stargazers_count": 410823,
+    "open_issues_count": 264,
+    "forks_count": 39111
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 86380,
+    "stargazers_count": 86480,
     "open_issues_count": 54,
-    "forks_count": 7939
+    "forks_count": 7951
   }
 ]
