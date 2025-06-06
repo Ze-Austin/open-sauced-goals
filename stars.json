@@ -19,9 +19,9 @@
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 89590,
-    "open_issues_count": 61,
-    "forks_count": 12854
+    "stargazers_count": 89813,
+    "open_issues_count": 62,
+    "forks_count": 12909
   },
   {
     "full_name": "realworld-angular/realworld-angular",
@@ -32,7 +32,7 @@
   {
     "full_name": "KillerCodeMonkey/ngx-quill",
     "stargazers_count": 1814,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 269
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "johnkomarnicki/vue-3-crash-course",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 38
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "reactive-python/reactpy",
-    "stargazers_count": 8015,
+    "stargazers_count": 8026,
     "open_issues_count": 64,
     "forks_count": 324
   },
@@ -87,13 +87,13 @@
     "full_name": "googlemaps/google-maps-services-python",
     "stargazers_count": 4747,
     "open_issues_count": 67,
-    "forks_count": 1325
+    "forks_count": 1328
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 37814,
+    "stargazers_count": 37875,
     "open_issues_count": 57,
-    "forks_count": 7050
+    "forks_count": 7071
   },
   {
     "full_name": "olakayCoder1/Scissor",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 166950,
+    "stargazers_count": 167015,
     "open_issues_count": 416,
-    "forks_count": 83074
+    "forks_count": 83072
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 12750,
-    "open_issues_count": 916,
-    "forks_count": 2806
+    "stargazers_count": 12762,
+    "open_issues_count": 919,
+    "forks_count": 2811
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 4904,
-    "open_issues_count": 62,
+    "stargazers_count": 4903,
+    "open_issues_count": 64,
     "forks_count": 5316
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2751,
+    "stargazers_count": 2753,
     "open_issues_count": 2,
     "forks_count": 962
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 419747,
-    "open_issues_count": 310,
-    "forks_count": 40299
+    "stargazers_count": 420126,
+    "open_issues_count": 314,
+    "forks_count": 40333
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 87201,
+    "stargazers_count": 87228,
     "open_issues_count": 54,
-    "forks_count": 8024
+    "forks_count": 8028
   }
 ]
