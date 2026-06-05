@@ -1,15 +1,15 @@
 [
   {
     "full_name": "anomalyco/opencode",
-    "stargazers_count": 168512,
-    "open_issues_count": 6436,
-    "forks_count": 20134
+    "stargazers_count": 170105,
+    "open_issues_count": 6611,
+    "forks_count": 20346
   },
   {
     "full_name": "FULU-Foundation/CRW-Extension",
-    "stargazers_count": 912,
-    "open_issues_count": 14,
-    "forks_count": 39
+    "stargazers_count": 914,
+    "open_issues_count": 15,
+    "forks_count": 40
   },
   {
     "full_name": "soteria-infra/soteria-sdk",
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 115364,
-    "open_issues_count": 109,
-    "forks_count": 17417
+    "stargazers_count": 115595,
+    "open_issues_count": 112,
+    "forks_count": 17454
   },
   {
     "full_name": "realworld-angular/realworld-angular",
-    "stargazers_count": 158,
-    "open_issues_count": 36,
+    "stargazers_count": 163,
+    "open_issues_count": 29,
     "forks_count": 22
   },
   {
     "full_name": "KillerCodeMonkey/ngx-quill",
     "stargazers_count": 1850,
-    "open_issues_count": 8,
+    "open_issues_count": 2,
     "forks_count": 273
   },
   {
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "googlemaps/google-maps-services-python",
-    "stargazers_count": 4955,
+    "stargazers_count": 4958,
     "open_issues_count": 72,
-    "forks_count": 1352
+    "forks_count": 1353
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 47875,
+    "stargazers_count": 47954,
     "open_issues_count": 7,
-    "forks_count": 9902
+    "forks_count": 9922
   },
   {
     "full_name": "bobby-didcoding/drf_course",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 174228,
-    "open_issues_count": 64,
-    "forks_count": 82452
+    "stargazers_count": 174282,
+    "open_issues_count": 65,
+    "forks_count": 82443
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 13883,
-    "open_issues_count": 970,
-    "forks_count": 3154
+    "stargazers_count": 13888,
+    "open_issues_count": 958,
+    "forks_count": 3158
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 5166,
+    "stargazers_count": 5167,
     "open_issues_count": 86,
-    "forks_count": 5299
+    "forks_count": 5298
   },
   {
     "full_name": "microsoft/AcademicContent",
     "stargazers_count": 2805,
     "open_issues_count": 0,
-    "forks_count": 959
+    "forks_count": 958
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
     "stargazers_count": 6047,
-    "open_issues_count": 94,
-    "forks_count": 2225
+    "open_issues_count": 95,
+    "forks_count": 2226
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 445795,
-    "open_issues_count": 177,
-    "forks_count": 44780
+    "stargazers_count": 446112,
+    "open_issues_count": 176,
+    "forks_count": 44839
   }
 ]
