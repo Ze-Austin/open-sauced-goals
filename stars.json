@@ -1,13 +1,13 @@
 [
   {
     "full_name": "anomalyco/opencode",
-    "stargazers_count": 198510,
-    "open_issues_count": 5175,
-    "forks_count": 25582
+    "stargazers_count": 199583,
+    "open_issues_count": 5214,
+    "forks_count": 25759
   },
   {
     "full_name": "FULU-Foundation/CRW-Extension",
-    "stargazers_count": 932,
+    "stargazers_count": 931,
     "open_issues_count": 13,
     "forks_count": 41
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 121109,
-    "open_issues_count": 136,
-    "forks_count": 18518
+    "stargazers_count": 121372,
+    "open_issues_count": 131,
+    "forks_count": 18571
   },
   {
     "full_name": "realworld-angular/realworld-angular",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "reactive-python/reactpy",
-    "stargazers_count": 8152,
+    "stargazers_count": 8151,
     "open_issues_count": 51,
     "forks_count": 331
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "googlemaps/google-maps-services-python",
-    "stargazers_count": 4970,
-    "open_issues_count": 74,
-    "forks_count": 1360
+    "stargazers_count": 4971,
+    "open_issues_count": 75,
+    "forks_count": 1362
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 65221,
-    "open_issues_count": 28,
-    "forks_count": 12660
+    "stargazers_count": 65941,
+    "open_issues_count": 31,
+    "forks_count": 12774
   },
   {
     "full_name": "bobby-didcoding/drf_course",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 175355,
-    "open_issues_count": 83,
-    "forks_count": 82274
+    "stargazers_count": 175377,
+    "open_issues_count": 84,
+    "forks_count": 82259
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 14423,
-    "open_issues_count": 813,
-    "forks_count": 3298
+    "stargazers_count": 14432,
+    "open_issues_count": 811,
+    "forks_count": 3315
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -159,11 +159,11 @@
     "full_name": "realpython/materials",
     "stargazers_count": 5203,
     "open_issues_count": 90,
-    "forks_count": 5280
+    "forks_count": 5279
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2813,
+    "stargazers_count": 2814,
     "open_issues_count": 0,
     "forks_count": 954
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 454215,
-    "open_issues_count": 278,
-    "forks_count": 45996
+    "stargazers_count": 454380,
+    "open_issues_count": 275,
+    "forks_count": 46017
   }
 ]
