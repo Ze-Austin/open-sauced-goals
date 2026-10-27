@@ -1,14 +1,14 @@
 [
   {
     "full_name": "anomalyco/opencode",
-    "stargazers_count": 220316,
-    "open_issues_count": 3650,
-    "forks_count": 29455
+    "stargazers_count": 222075,
+    "open_issues_count": 3826,
+    "forks_count": 29711
   },
   {
     "full_name": "FULU-Foundation/CRW-Extension",
-    "stargazers_count": 967,
-    "open_issues_count": 14,
+    "stargazers_count": 965,
+    "open_issues_count": 8,
     "forks_count": 41
   },
   {
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 126662,
-    "open_issues_count": 189,
-    "forks_count": 19932
+    "stargazers_count": 127209,
+    "open_issues_count": 207,
+    "forks_count": 20068
   },
   {
     "full_name": "realworld-angular/realworld-angular",
@@ -50,14 +50,14 @@
   {
     "full_name": "KillerCodeMonkey/ngx-quill",
     "stargazers_count": 1853,
-    "open_issues_count": 7,
+    "open_issues_count": 10,
     "forks_count": 271
   },
   {
     "full_name": "withfig/fig",
     "stargazers_count": 2001,
     "open_issues_count": 738,
-    "forks_count": 64
+    "forks_count": 66
   },
   {
     "full_name": "johnkomarnicki/vue-3-crash-course",
@@ -93,7 +93,7 @@
     "full_name": "reactive-python/reactpy",
     "stargazers_count": 8152,
     "open_issues_count": 51,
-    "forks_count": 330
+    "forks_count": 329
   },
   {
     "full_name": "Olatisunkanmi/nigeria-geo",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "googlemaps/google-maps-services-python",
-    "stargazers_count": 4983,
+    "stargazers_count": 4985,
     "open_issues_count": 73,
-    "forks_count": 1361
+    "forks_count": 1362
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 70135,
-    "open_issues_count": 24,
-    "forks_count": 13603
+    "stargazers_count": 70280,
+    "open_issues_count": 27,
+    "forks_count": 13653
   },
   {
     "full_name": "bobby-didcoding/drf_course",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 176027,
-    "open_issues_count": 70,
-    "forks_count": 82086
+    "stargazers_count": 176070,
+    "open_issues_count": 72,
+    "forks_count": 82070
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 14633,
-    "open_issues_count": 889,
-    "forks_count": 3538
+    "stargazers_count": 14647,
+    "open_issues_count": 881,
+    "forks_count": 3556
   },
   {
     "full_name": "ifeoluwatomiii/space-kangaroo",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 5216,
-    "open_issues_count": 97,
-    "forks_count": 5262
+    "stargazers_count": 5219,
+    "open_issues_count": 101,
+    "forks_count": 5259
   },
   {
     "full_name": "microsoft/AcademicContent",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "prakhar1989/docker-curriculum",
-    "stargazers_count": 6117,
-    "open_issues_count": 22,
+    "stargazers_count": 6124,
+    "open_issues_count": 23,
     "forks_count": 2224
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 457739,
-    "open_issues_count": 211,
-    "forks_count": 49347
+    "stargazers_count": 458007,
+    "open_issues_count": 165,
+    "forks_count": 48671
   }
 ]
